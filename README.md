@@ -1,6 +1,6 @@
 # 📊 ML Project Workspace – Churn, Loan, Banking Market & Flight Prediction
 
-This repository contains structured work on real-world ML problems including **Customer Churn**, **Loan Prediction**, **Banking Market Response**, and **Flight Price Prediction**. It focuses on robust data pipelines, exploratory data analysis (EDA), preprocessing, model evaluation using multiple metrics — with **recall** emphasized for imbalanced scenarios.
+This repository contains structured work on real-world ML problems including **Customer Churn**, **Loan Prediction**, **Banking Market Response**, and **Flight Price Prediction**. It focuses on robust data pipelines, exploratory data analysis (EDA), preprocessing, model evaluation using multiple metrics with **recall** emphasized for imbalanced scenarios.
 
 > 🛠 This workspace is designed to evolve. New datasets will follow a reusable pipeline and evaluation logic for consistency and clarity.
 
@@ -95,18 +95,18 @@ jupyter notebook
 ### 🧭 Project Structure
 📁 project_root/
 │
-├── 📄 README.md               <- This file
+├── 📄 README.md <- This file
 │
-├── 📁 TeleCustomerChurnNotebook/          <- VScode folder with scripts, models, and EDA
+├── 📁 TeleCustomerChurnNotebook/ <- VSCode folder with scripts, models, and EDA
 │
-├── 📁 LoanPredictionProblem/           <- VScode folder with scripts, models, and EDA
+├── 📁 LoanPredictionProblem/ <- VSCode folder with scripts, models, and EDA
 │
-├── 📄 BankMarketing.ipynb    <- Google Colab notebook (single file)
+├── 📄 BankMarketing.ipynb <- Google Colab notebook (single file)
+│
 ├── 📄 Flight_Prediction.ipynb <- Google Colab notebook (DL-based)
-│                 
-└── 📁 requirements.txt
+│
+└── 📄 requirements.txt <- Project dependencies
 
-└── 📄 requirements.txt     <- Project dependencies
 
 ### 🚀 What's Next
  * Add datasets in health, fraud detection, and education
@@ -119,7 +119,7 @@ jupyter notebook
 
  * Add Docker & cloud deployment support (AWS, Azure, GCP)
 
-🙌 Acknowledgments
+### 🙌 Acknowledgments
 This project is part of my ML Engineering journey — building toward deployable, production-ready solutions using best practices in data science and MLOps.
 
 > 🔄 Feedback, suggestions, or collaborations are always welcome!
