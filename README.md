@@ -97,15 +97,15 @@ jupyter notebook
 │
 ├── 📄 README.md <- This file
 │
-├── 📁 TeleCustomerChurnNotebook/ <- VSCode folder with scripts, models, and EDA
+├── 📁 TeleCustomerChurnNotebook/ <- VScode folder with scripts, models, and EDA
 │
-├── 📁 LoanPredictionProblem/ <- VSCode folder with scripts, models, and EDA
+├── 📁 LoanPredictionProblem/ <- VScode folder with scripts, models, and EDA
 │
 ├── 📄 BankMarketing.ipynb <- Google Colab notebook (single file)
-│
 ├── 📄 Flight_Prediction.ipynb <- Google Colab notebook (DL-based)
 │
 └── 📄 requirements.txt <- Project dependencies
+
 
 
 ### 🚀 What's Next
